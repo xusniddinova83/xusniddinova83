@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xusniddinova83
+- 👋 Hi, I’m @xusniddinova
 - 👀 I’m interested in python language
 - 🌱 I’m currently learning it,english and korean language
 - 💞️ I’m looking to collaborate on ...
